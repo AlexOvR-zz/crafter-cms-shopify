@@ -1,5 +1,5 @@
 <form>
-	<title>page-home</title>
+	<title>Page - Home</title>
 	<description></description>
 	<objectType>page</objectType>
 	<content-type>/page/page-home</content-type>
@@ -26,7 +26,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>page-home Properties</title>
+			<title>Page - Home Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
