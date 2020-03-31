@@ -2,6 +2,7 @@
 <#macro renderHeader>
     <!-- Main Nav Container Starts -->
     <nav id="main-nav">
+        Header Soon Here...
         <!-- Logo -->
         <a href="#">
             <!-- <img src="" class="nav-logo" alt="rivet-logo"/> -->
@@ -18,6 +19,7 @@
 <#macro renderFooter>
     <!-- Footer Container Starts -->
     <footer id="page-footer" <@studio.iceAttr iceGroup="page-footer"/>>
+        Footer Soon Here...
     </footer>
     <!-- Footer Container Ends -->
 </#macro>
