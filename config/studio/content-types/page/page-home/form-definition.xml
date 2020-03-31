@@ -152,7 +152,7 @@
 					<properties>
 						<property>
 							<name>contentType</name>
-							<value>/components/component-hero</value>
+							<value>/component/component-hero</value>
 								<type>undefined</type>
 						</property>
 					</properties>
