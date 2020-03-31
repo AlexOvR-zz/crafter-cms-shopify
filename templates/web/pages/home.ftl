@@ -7,8 +7,8 @@
 <@layout.default />
 <body>
 	<div id="home-main-container" class="main-container">
-    	<@global.renderHero />
         <@global.renderHeader />
+    	<@global.renderHero />
       	<div class="sections-container">
         </div>
         <@global.renderFooter />
