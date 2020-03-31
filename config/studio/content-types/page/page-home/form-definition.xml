@@ -114,7 +114,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>componentsDS</value>
+							<value>heroDS</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -152,7 +152,7 @@
 					<properties>
 						<property>
 							<name>contentType</name>
-							<value>/components/hero-component</value>
+							<value>/components/component-hero</value>
 								<type>undefined</type>
 						</property>
 					</properties>
