@@ -117,7 +117,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>imageDS</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -137,5 +137,18 @@
 			</fields>
 		</section>
 	</sections>
-	<datasources>	</datasources>
+	<datasources>				<datasource>
+					<type>img-desktop-upload</type>
+					<id>imageDS</id>
+					<title>imageDS</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+	</datasources>
 </form>
