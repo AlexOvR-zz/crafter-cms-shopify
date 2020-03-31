@@ -10,9 +10,6 @@
     	<@global.renderHero />
         <@global.renderHeader />
       	<div class="sections-container">
-    		<#list (contentModel.sections_o.item)![] as aSection>
-                <@renderComponent component=aSection/>
-            </#list>
         </div>
         <@global.renderFooter />
 	</div>
