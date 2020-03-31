@@ -89,7 +89,7 @@
 				<field>
 					<type>image-picker</type>
 					<id>image_s</id>
-					<iceId></iceId>
+					<iceId>component-hero</iceId>
 					<title>image</title>
 					<description></description>
 					<defaultValue></defaultValue>
